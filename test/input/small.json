@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "56f9cd8db65d1a0b9a8cc4a1",
+    "index": 0,
+    "guid": "b5a45952-b675-4e19-8f39-650f74f00664",
+    "isActive": false,
+    "balance": "$2,435.44",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "brown",
+    "name": "Vinson Nolan",
+    "gender": "male",
+    "company": "DIGIQUE",
+    "email": "vinsonnolan@digique.com",
+    "phone": "+1 (901) 536-3328",
+    "address": "215 Balfour Place, Forbestown, Virgin Islands, 6767",
+    "about": "Sit quis eiusmod veniam cupidatat. Consequat ullamco consectetur laborum dolore sunt. Do dolore quis qui excepteur ut magna magna cupidatat laboris anim qui. Culpa ad cupidatat excepteur est. Ea irure cillum voluptate pariatur id officia adipisicing labore consequat nisi aute laborum. Eiusmod et ex pariatur esse minim est laborum est laboris esse irure enim labore id.\r\n",
+    "registered": "2014-03-23T05:10:57 +07:00",
+    "latitude": -68.083739,
+    "longitude": 101.123423,
+    "tags": [
+      "aliquip",
+      "nostrud",
+      "duis",
+      "minim",
+      "est",
+      "non",
+      "minim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Karla Joyce"
+      },
+      {
+        "id": 1,
+        "name": "Cruz Hodges"
+      },
+      {
+        "id": 2,
+        "name": "Beck Barnett"
+      }
+    ],
+    "greeting": "Hello, Vinson Nolan! You have 7 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
